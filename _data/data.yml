@@ -20,18 +20,19 @@ sidebar:
     linkedin: https://de.linkedin.com/in/oleksiikhilkevych
     
     languages:
-      - idiom: Ukranian
+      - language:
+        idiom: Ukranian
         level: Native
-
-      - idiom: English
+      - language:
+        idiom: English
         level: Advanced
-
-      - idiom: German 
+      - language:
+        idiom: German 
         level: Upper-Intermediate
 
 career-profile:
-    title: Career Profile
-    summary: |
+    title: About me
+    text: 
       My focus is on providing first-class consultancy, using my background in tech and business.
       Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
       I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. 
@@ -44,12 +45,18 @@ career-profile:
       Open for on-site and remote contracts 
 
 
-education:
-    - degree: MSc in Computer Science
+studies:
+    - education:
+      degree: MSc in Computer Science
       university: Igor Sikorsky Kyiv Polytechnic Institute
       time: Sep 2003 - May 2009
 
+
+
 experiences:
+    title: Experiences
+
+    experiences:
     - role: DevOps Engineer, Security Officer, Data Protection Officer, CEO
       time: Oct 2018 - Present
       company: Noroutine GmbH
@@ -58,7 +65,6 @@ experiences:
           - Tech Consulting: As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more.
           - Recruiting: On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates.
           - Compliance: As Security Officer and Data Protection Officer, I am maintaining internal security policies and ensuring GDPR compliance.
-
 
     - role: DevOps Consultant
       time: Oct 2019- Sep 2020
@@ -135,37 +141,47 @@ projects:
     
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-      Languages
-      - Golang,Java, Groovy, Python, JavaScript, SQL, Bash
-
-      Web Frontend 
-      - JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
-
-      Backend
-      - Go, node.js, Spring, Hibernate
-
-      Databases
-      - PostgreSQL, Mongo, Redis, ElasticSearch, Consul
-
-      Platforms
-      - AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
-
-      Automation/CI&CD
-      - Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
-
-      Code Repo/Code Review
-      - bare Git, GitHub, GitLab, Gerrit
-
-      Containers
-      - Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
-
-      DevSecOps
-      - HashiCorp Vault, Ansible Vault, istio, GnuPG
-      
-      Data Analytics
-      - Spark, Luigi, Jupyter, ELK
-
+    skills:
+       - skill:
+          name: Languages |
+           - Golang,Java, Groovy, Python, JavaScript, SQL, Bash
+          level: 95%
+       - skill:
+          name: Web Frontend |
+           - JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
+          level: 90%
+       - skill:
+          name: Backend |
+           - Go, node.js, Spring, Hibernate
+          level: 85%
+       - skill:
+          name: Databases |
+           - PostgreSQL, Mongo, Redis, ElasticSearch, Consul
+          level: 90%
+       - skill:
+         name: Platforms|
+           - AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
+         level: 85%
+       - skill:
+         name: Automation/ CI&CD|
+           - Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
+         level: 90%
+       - skill:
+         name: Code Repo/Code Review|
+           - bare Git, GitHub, GitLab, Gerrit
+         level: 90%
+       - skill:
+         name:  Containers |
+           - Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+         level: 90%
+       - skill:
+         name:  DevSecOps |
+           - HashiCorp Vault, Ansible Vault, istio, GnuPG
+         level: 90%
+       - skill:
+         name:  Data Anlytics |
+           - Spark, Luigi, Jupyter, ELK
+         level: 90%
+         
 footer:
     text: 'Download <a href="" target="_blank" rel="nofollow">PDF</a>'
