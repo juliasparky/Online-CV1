@@ -18,6 +18,14 @@ sidebar:
     phone: +49 163 1669687‬
     website: https://noroutine.me #do not add http://
 
+    # Sidebar links
+    studies:
+    education:
+    degree: MSc in Computer Science
+    university: Igor Sikorsky Kyiv Polytechnic Institute
+    time: Sep 2003 - May 2009
+    
+    # Sidebar links
     languages:
       - language:
         idiom: Ukranian
@@ -35,16 +43,11 @@ career-profile:
       My focus is on providing first-class consultancy, using my background in tech and business.
       Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
       I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. <br />
-    
+
       I’m very well aware of a huge gap between desire for faster yet controllable change at management level and actually having that agility within teams. 
       I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
       The most important in crossing that gap for me is to maintain business continuity and steer the transformation in controllable way.
       Open for on-site and remote contracts.
-studies:
-      education:
-      degree: MSc in Computer Science
-      university: Igor Sikorsky Kyiv Polytechnic Institute
-      time: Sep 2003 - May 2009
     
 experiences:
     title: Experiences
