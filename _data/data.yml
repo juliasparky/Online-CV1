@@ -132,21 +132,18 @@ experiences:
           SVG-based restaurant room designer
 projects:
     title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
-     time: Sep 2003 - Apr 2013
+     time:Sep 2003 - Apr 2013
     
 publications:
-    title: About Taxes in Ukraine (in Ukrainian)
-    intro: |
-        Analysis of tax changes in Ukrainian IT
-        https://dou.ua/lenta/columns/stop-giving-milk-for-free/
+        About Taxes in Ukraine (in Ukrainian)
+        - "Analysis of tax changes in Ukrainian IT
+        https://dou.ua/lenta/columns/stop-giving-milk-for-free/""
 
-    title: What Constitutes a Senior (in Ukrainian)
-    intro: |
+        - What Constitutes a Senior (in Ukrainian)
         Breaking down what values shall a Senior professional have
         https://dou.ua/lenta/columns/senior-middle-junior-comparison/
     
-    title: About Taxes in Ukraine (in Ukrainian)
-    intro: |
+        - About Taxes in Ukraine (in Ukrainian)
         8 other technical articles (in Russian)
         Mostly Software Development topics
         https://habr.com/en/users/1ex/posts/
@@ -156,35 +153,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: languages
-            : Golang,Java, Groovy, Python, JavaScript, SQL, Bash
+      Languages
+      Golang,Java, Groovy, Python, JavaScript, SQL, Bash
 
-      - name: Web Frontend
-            : JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
+      Web Frontend
+      JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
 
-      - name: Backend
-            : Go, node.js, Spring, Hibernate
+      Backend
+      Go, node.js, Spring, Hibernate
 
-      - name: Databases
-            : PostgreSQL, Mongo, Redis, ElasticSearch, Consul
+      Databases
+      PostgreSQL, Mongo, Redis, ElasticSearch, Consul
 
-      - name: Platforms
-            : AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
+      Platforms
+      AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
 
-      - name: Automation/CI&CD
-            : Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
+      Automation/CI&CD
+      Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
 
-      - name: Code Repo/Code Review
-            : bare Git, GitHub, GitLab, Gerrit
+       Code Repo/Code Review
+       bare Git, GitHub, GitLab, Gerrit
 
-      - name: Containers
-            : Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+      Containers
+      Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
 
-      - name: DevSecOps
-            : HashiCorp Vault, Ansible Vault, istio, GnuPG
+      DevSecOps
+      HashiCorp Vault, Ansible Vault, istio, GnuPG
       
-      - name: Data Analytics
-            : Spark, Luigi, Jupyter, ELK
+      Data Analytics
+      Spark, Luigi, Jupyter, ELK
 footer: >
-    text: 'Download <a href="https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>'
+    text:'Download <a href="https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>'
 
