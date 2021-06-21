@@ -65,7 +65,7 @@ experiences:
 
     - role: DevOps Consultant
       time: Oct 2019- Sep 2020
-      company: Allianz Technology SE- Global Data Platform
+      company: Allianz Technology SE - Global Data Platform
       details: |
           • Architected and implemented from scratch multi-tenant highly-available containerized monitoring solution for 50+ environments with alerting and long-term storage. <br />
           • Wrote metrics exporters in Go for LDAP and NFS monitoring, as openly available solutions didn’t meet the business requirements.<br />
@@ -119,7 +119,7 @@ experiences:
          • Unified server/dev vm template that can be continuously delivered to provide developers and operations with single-image compliant base VM, that can be reused in Vagrant, VMWare, OpenStack and AWS. <br />
          • Corosync binding for Go (to interface with corosync/pacemaker from Go code) <br />
  
-    - role: Senior Software Engineer (DevOps) - Whitelabel Payment Sevices Provider
+    - role: Senior Software Engineer (DevOps)
       time: Sep 2014 - Now 2015
       company: PAY.ON AG (now part of ACI)
       
@@ -179,4 +179,4 @@ skills:
          level: 90%
          
 footer:
-    text: 'Download <a href="" target="_blank" rel="nofollow">PDF</a>'
+    'Download <a href="https://cloud.noroutine.me/s/qZzgiFCdbM3859w" target="_blank" rel="nofollow">PDF</a>'
