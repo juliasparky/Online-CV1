@@ -148,7 +148,6 @@ publications:
         Mostly Software Development topics
         https://habr.com/en/users/1ex/posts/
 
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -182,6 +181,7 @@ skills:
       
       Data Analytics
       Spark, Luigi, Jupyter, ELK
-footer: >
-    text:'Download <a href="https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>'
+
+footer:
+    text: 'Download <a href="https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>'
 
