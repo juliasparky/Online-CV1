@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Oleksii Khilkevych
     tagline: Big Data DevOps Engineer
-    avatar: image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: olelsiy@noroutine.me
@@ -131,56 +131,41 @@ experiences:
           SVG-based restaurant room designer
 projects:
     title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
-     time:Sep 2003 - Apr 2013
+     time: Sep 2003 - Apr 2013
     
-publications:
-        About Taxes in Ukraine (in Ukrainian)
-        - "Analysis of tax changes in Ukrainian IT
-        https://dou.ua/lenta/columns/stop-giving-milk-for-free/""
-
-        - What Constitutes a Senior (in Ukrainian)
-        Breaking down what values shall a Senior professional have
-        https://dou.ua/lenta/columns/senior-middle-junior-comparison/
-    
-        - About Taxes in Ukraine (in Ukrainian)
-        8 other technical articles (in Russian)
-        Mostly Software Development topics
-        https://habr.com/en/users/1ex/posts/
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       Languages
-      Golang,Java, Groovy, Python, JavaScript, SQL, Bash
+      - Golang,Java, Groovy, Python, JavaScript, SQL, Bash
 
-      Web Frontend
-      JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
+      Web Frontend 
+      - JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
 
       Backend
-      Go, node.js, Spring, Hibernate
+      - Go, node.js, Spring, Hibernate
 
       Databases
-      PostgreSQL, Mongo, Redis, ElasticSearch, Consul
+      - PostgreSQL, Mongo, Redis, ElasticSearch, Consul
 
       Platforms
-      AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
+      - AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
 
       Automation/CI&CD
-      Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
+      - Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
 
       Code Repo/Code Review
-      bare Git, GitHub, GitLab, Gerrit
+      - bare Git, GitHub, GitLab, Gerrit
 
       Containers
-      Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+      - Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
 
       DevSecOps
-      HashiCorp Vault, Ansible Vault, istio, GnuPG
+      - HashiCorp Vault, Ansible Vault, istio, GnuPG
       
       Data Analytics
-      Spark, Luigi, Jupyter, ELK
+      - Spark, Luigi, Jupyter, ELK
 
 footer:
-    text: 
-    Download <a href= url: https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn target="_blank" rel="nofollow">PDF</a>'
+    text: 'Download <a href="" target="_blank" rel="nofollow">PDF</a>'
