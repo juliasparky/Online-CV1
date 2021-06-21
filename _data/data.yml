@@ -96,29 +96,7 @@ experiences:
          • Setup and maintenance of Artifactory instances<br />
          • Setup and maintenance of dev Jenkins clusters<br />
          • Migration of Jenkins jobs to Jenkins Job DSL<br />
-         • Development and maintenance of Vagrant-based Development VM for 50+ developers<br />
-         • In-house release tooling improvements and maintenance<br />
-         • Production environment migration to new datacenter<br />
-         • Datacenter switchovers and creating of tooling for it<br />
-         • Jira migration to ACI Active Directory<br />
-         • UltraDNS/Pingdom management CLI in Go (reliable and fast live traffic redirection)<br />
-         • Migrated internal inventory tool to Perl+GTK3<br />
-         Trainings, PoCs, code retreats, hackatons:<br />
-         • Training around 50 developers on Git<br />
-         • Conducted weekly code retreats around DevOps topics<br />
-         • Conducted numerous PoCs on K8s, containerization, virtualization, automation, took part in hackatons<br />
-         • Kubernetes PoC for dev infrastructure, comparing docker and crio<br />
-         • OpenStack internal hackaton on creating vms from templates<br />
-         • VMWare automation PoC (creating VMs from PCI-compliant templates with help of custom Ansible module) <br />
-         •  PCI-compliant VM template built with packer<br />
-         Containerization internal hackaton to run one of our core projects on Kubernetes
-         • Jenkins Xray plugin PoC (tracks code Test coverage for every Git commit)<br />
-         • Ansible dynamic inventory PoC (provides Ansible with entries from or internal server inventory database)<br />
-         • Release orchestration from Jira (trigger and coordinate Jenkins jobs with Jira transitions)<br />
-         • Docker Swarm PoC (prototyped our complete dev infra in containers)<br />
-         • Unified server/dev vm template that can be continuously delivered to provide developers and operations with single-image compliant base VM, that can be reused in Vagrant, VMWare, OpenStack and AWS. <br />
-         • Corosync binding for Go (to interface with corosync/pacemaker from Go code) <br />
- 
+         
     - role: Senior Software Engineer (DevOps)
       time: Sep 2014 - Now 2015
       company: PAY.ON AG (now part of ACI)
