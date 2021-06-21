@@ -35,16 +35,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    My focus is on providing first-class consultancy, using my background in tech and business.
-    Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
-    I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. 
-    Where required, I can train teams to help them cross technological barriers faster and at the same speed for all team members.
+      My focus is on providing first-class consultancy, using my background in tech and business.
+      Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
+      I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. 
+      Where required, I can train teams to help them cross technological barriers faster and at the same speed for all team members.
     
-    I’m very well aware of a huge gap between desire for faster yet controllable change at management level and actually having that agility within teams. 
-    The gap that is caused by tech or communication barriers, legacy toolset, isolated knowledge islands, regulations, process inertia and so on. 
-    I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
-    The most important in crossing that gap for me is to maintain business continuity and steer the transformation in controllable way.
-    Open for on-site and remote contracts 
+      I’m very well aware of a huge gap between desire for faster yet controllable change at management level and actually having that agility within teams. 
+      The gap that is caused by tech or communication barriers, legacy toolset, isolated knowledge islands, regulations, process inertia and so on. 
+      I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
+      The most important in crossing that gap for me is to maintain business continuity and steer the transformation in controllable way.
+      Open for on-site and remote contracts 
 
 
 education:
@@ -156,23 +156,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: languages
+            : Golang,Java, Groovy, Python, JavaScript, SQL, Bash
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Web Frontend
+            : JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
 
-      - name: Angular
-        level: 98%
+      - name: Backend
+            : Go, node.js, Spring, Hibernate
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Databases
+            : PostgreSQL, Mongo, Redis, ElasticSearch, Consul
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Platforms
+            : AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Automation/CI&CD
+            : Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
 
+      - name: Code Repo/Code Review
+            : bare Git, GitHub, GitLab, Gerrit
+
+      - name: Containers
+            : Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+
+      - name: DevSecOps
+            : HashiCorp Vault, Ansible Vault, istio, GnuPG
+      
+      - name: Data Analytics
+            : Spark, Luigi, Jupyter, ELK
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    text: 'Download <a href="https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>'
+
