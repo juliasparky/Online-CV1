@@ -170,8 +170,8 @@ skills:
       Automation/CI&CD
       Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
 
-       Code Repo/Code Review
-       bare Git, GitHub, GitLab, Gerrit
+      Code Repo/Code Review
+      bare Git, GitHub, GitLab, Gerrit
 
       Containers
       Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
