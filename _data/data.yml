@@ -42,7 +42,7 @@ career-profile:
       The gap that is caused by tech or communication barriers, legacy toolset, isolated knowledge islands, regulations, process inertia and so on. 
       I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
       The most important in crossing that gap for me is to maintain business continuity and steer the transformation in controllable way.
-      Open for on-site and remote contracts 
+      Open for on-site and remote contracts.
 
 
 studies:
@@ -62,9 +62,12 @@ experiences:
       company: Noroutine GmbH
       details: |
         Designed from scratch and implemented as a code complete corporate network, storage and computing infrastructure in hybrid cloud model, where our on-premises resources are transparently networked with Azure and Vultr resources. <br />
-          - Tech Consulting: As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more. <br />
-          - Recruiting: On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates. <br />
-          - Compliance: As Security Officer and Data Protection Officer, I am maintaining internal security policies and ensuring GDPR compliance.
+          • Tech Consulting: <br />
+            As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more. <br />
+          • Recruiting: <br />
+             On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates. <br />
+          • Compliance: <br />
+             As Security Officer and Data Protection Officer, I am maintaining internal security policies and ensuring GDPR compliance.
 
     - role: DevOps Consultant
       time: Oct 2019- Sep 2020
@@ -81,7 +84,7 @@ experiences:
           • I went on with ACI as a contractor on AHS project to introduce active-hotstandby cross-datacenter traffic switchover for production environment with over 300 peak tps. <br />
           • The project goal was to reduce customer-facing incident impact during major platform outages. In case of major incident in live processing datacenter, the automated solution is supposed to detect failure condition and switchover complete transaction processing to DR site.<br />
           • My particular responsibility was two-fold: <br />
-          1) to implement tooling for controlled manual and automated switchovers, and 
+          1) to implement tooling for controlled manual and automated switchovers <br />
           2) monitoring solution coupled with rule engine, that would trigger switchover on particular predefined condition. <br />
           • The tooling was implemented in Go and consists of CLI interface for various platform components to orchestrate switchover across platform components, and witness daemon for proactive monitoring and incident detection.<br />
           • Part of witness daemon is a rule engine, that detects failure condition and performs automated failover if condition is met.<br />
