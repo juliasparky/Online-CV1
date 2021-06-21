@@ -5,7 +5,7 @@
 sidebar:
 # Site Settings
     title: Oleksii Khilkevych,MSc
-    url: 'http://github.com/noroutine'
+    url: http://github.com/noroutine
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
