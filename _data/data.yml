@@ -61,67 +61,66 @@ experiences:
       time: Oct 2018 - Present
       company: Noroutine GmbH
       details: |
-        Designed from scratch and implemented as a code complete corporate network, storage and computing infrastructure in hybrid cloud model, where our on-premises resources are transparently networked with Azure and Vultr resources.
-          - Tech Consulting: As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more.
-          - Recruiting: On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates.
+        Designed from scratch and implemented as a code complete corporate network, storage and computing infrastructure in hybrid cloud model, where our on-premises resources are transparently networked with Azure and Vultr resources. <br />
+          - Tech Consulting: As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more. <br />
+          - Recruiting: On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates. <br />
           - Compliance: As Security Officer and Data Protection Officer, I am maintaining internal security policies and ensuring GDPR compliance.
 
     - role: DevOps Consultant
       time: Oct 2019- Sep 2020
       company: Allianz Technology SE- Global Data Platform
       details: |
-          - Architected and implemented from scratch multi-tenant highly-available containerized monitoring solution for 50+ environments with alerting and long-term storage
-          - Wrote metrics exporters in Go for LDAP and NFS monitoring, as openly available solutions didn’t meet the business requirements
-          - Some of tools, among many involved: Prometheus, m3db, Alerta, ElasticSearch, Grafana
+          • Architected and implemented from scratch multi-tenant highly-available containerized monitoring solution for 50+ environments with alerting and long-term storage. <br />
+          • Wrote metrics exporters in Go for LDAP and NFS monitoring, as openly available solutions didn’t meet the business requirements.<br />
+          • Some of tools, among many involved: Prometheus, m3db, Alerta, ElasticSearch, Grafana. <br />
 
     - role: DevOps Consultant
       time: 2012 - 2014
       company: ACI Worldwide, Inc. - Banking & Payments Solution
       details: |
-          - I went on with ACI as a contractor on AHS project to introduce active-hotstandby cross-datacenter traffic switchover for production environment with over 300 peak tps
-          - The project goal was to reduce customer-facing incident impact during major platform outages. In case of major incident in live processing datacenter, the automated solution is supposed to detect failure condition and switchover complete transaction processing to DR site.
-          - My particular responsibility was two-fold: 
+          • I went on with ACI as a contractor on AHS project to introduce active-hotstandby cross-datacenter traffic switchover for production environment with over 300 peak tps. <br />
+          • The project goal was to reduce customer-facing incident impact during major platform outages. In case of major incident in live processing datacenter, the automated solution is supposed to detect failure condition and switchover complete transaction processing to DR site.<br />
+          • My particular responsibility was two-fold: <br />
           1) to implement tooling for controlled manual and automated switchovers, and 
-          2) monitoring solution coupled with rule engine, that would trigger switchover on particular predefined condition.
-          - The tooling was implemented in Go and consists of CLI interface for various platform components to orchestrate switchover across platform components, and witness daemon for proactive monitoring and incident detection.
-          - Part of witness daemon is a rule engine, that detects failure condition and performs automated failover if condition is met
+          2) monitoring solution coupled with rule engine, that would trigger switchover on particular predefined condition. <br />
+          • The tooling was implemented in Go and consists of CLI interface for various platform components to orchestrate switchover across platform components, and witness daemon for proactive monitoring and incident detection.<br />
+          • Part of witness daemon is a rule engine, that detects failure condition and performs automated failover if condition is met.<br />
 
     - role: Senior Software Engineer (DevOps)
       time: Nov 2015 - Oct 2019
       company: ACI Worldwide, Inc. - Banking & Payments Solution
       details: |
-         I joined PAY.ON as first DevOps Engineer in a strict security oriented and PCI-regulated startup with large legacy code base and left a team with great DevOps mindset and modern stack.A responsive website template designed to help startups promote, market and sell their products.
-         My core activities at PAY.ON/ACI over 5 years were around improving tooling and infrastructure, infrastructure migrations, driving forward DevOps roadmap, mentoring new hires, strengthening interactions among teams and nurturing DevOps culture.
-         Completed projects with direct involvement:
-         - Migration of source code with 10k+ unit tests from Subversion to Git
-         - Migration of build systems in 3 large source bases from Ant to Gradle
-         - Setup and maintenance of Gerrit instances
-         - Setup and maintenance of Artifactory instances
-         - Setup and maintenance of dev Jenkins clusters
-         - Migration of Jenkins jobs to Jenkins Job DSL
-         - Development and maintenance of Vagrant-based Development VM for 50+ developers
-         - In-house release tooling improvements and maintenance
-         - Production environment migration to new datacenter
-         - Datacenter switchovers and creating of tooling for it
-         - Jira migration to ACI Active Directory
-         - UltraDNS/Pingdom management CLI in Go (reliable and fast live traffic redirection)
-         - Migrated internal inventory tool to Perl+GTK3
-         Trainings, PoCs, code retreats, hackatons:
-         - Training around 50 developers on Git
-         - Conducted weekly code retreats around DevOps topics
-         - Conducted numerous PoCs on K8s, containerization, virtualization, automation, took part in hackatons
-         - Kubernetes PoC for dev infrastructure, comparing docker and crio
-         - OpenStack internal hackaton on creating vms from templates
-         - VMWare automation PoC (creating VMs from PCI-compliant templates with help of custom Ansible module)
-         - PCI-compliant VM template built with packer
+         I joined PAY.ON as first DevOps Engineer in a strict security oriented and PCI-regulated startup with large legacy code base and left a team with great DevOps mindset and modern stack.A responsive website template designed to help startups promote, market and sell their products.<br />
+         My core activities at PAY.ON/ACI over 5 years were around improving tooling and infrastructure, infrastructure migrations, driving forward DevOps roadmap, mentoring new hires, strengthening interactions among teams and nurturing DevOps culture.<br />
+         Completed projects with direct involvement:<br />
+         • Migration of source code with 10k+ unit tests from Subversion to Git<br />
+         • Migration of build systems in 3 large source bases from Ant to Gradle<br />
+         • Setup and maintenance of Gerrit instances<br />
+         • Setup and maintenance of Artifactory instances<br />
+         • Setup and maintenance of dev Jenkins clusters<br />
+         • Migration of Jenkins jobs to Jenkins Job DSL<br />
+         • Development and maintenance of Vagrant-based Development VM for 50+ developers<br />
+         • In-house release tooling improvements and maintenance<br />
+         • Production environment migration to new datacenter<br />
+         • Datacenter switchovers and creating of tooling for it<br />
+         • Jira migration to ACI Active Directory<br />
+         • UltraDNS/Pingdom management CLI in Go (reliable and fast live traffic redirection)<br />
+         • Migrated internal inventory tool to Perl+GTK3<br />
+         Trainings, PoCs, code retreats, hackatons:<br />
+         • Training around 50 developers on Git<br />
+         • Conducted weekly code retreats around DevOps topics<br />
+         • Conducted numerous PoCs on K8s, containerization, virtualization, automation, took part in hackatons<br />
+         • Kubernetes PoC for dev infrastructure, comparing docker and crio<br />
+         • OpenStack internal hackaton on creating vms from templates<br />
+         • VMWare automation PoC (creating VMs from PCI-compliant templates with help of custom Ansible module) <br />
+         •  PCI-compliant VM template built with packer<br />
          Containerization internal hackaton to run one of our core projects on Kubernetes
-         - Jenkins Xray plugin PoC (tracks code Test coverage for every Git commit)
-         - Ansible dynamic inventory PoC (provides Ansible with entries from or internal server inventory database)
-         - Release orchestration from Jira (trigger and coordinate Jenkins jobs with Jira transitions)
-         - Docker Swarm PoC (prototyped our complete dev infra in containers)
-         - Unified server/dev vm template that can be continuously delivered to provide developers and operations with
-         - single-image compliant base VM, that can be reused in Vagrant, VMWare, OpenStack and AWS
-         - Corosync binding for Go (to interface with corosync/pacemaker from Go code)
+         • Jenkins Xray plugin PoC (tracks code Test coverage for every Git commit)<br />
+         • Ansible dynamic inventory PoC (provides Ansible with entries from or internal server inventory database)<br />
+         • Release orchestration from Jira (trigger and coordinate Jenkins jobs with Jira transitions)<br />
+         • Docker Swarm PoC (prototyped our complete dev infra in containers)<br />
+         • Unified server/dev vm template that can be continuously delivered to provide developers and operations with single-image compliant base VM, that can be reused in Vagrant, VMWare, OpenStack and AWS. <br />
+         • Corosync binding for Go (to interface with corosync/pacemaker from Go code) <br />
  
     - role: Senior Software Engineer (DevOps) - Whitelabel Payment Sevices Provider
       time: Sep 2014 - Now 2015
@@ -131,10 +130,9 @@ experiences:
       time: Jan 2012 -  Dec 2013
       company: Gastrofix GmbH (now part of Lightspeed) - Innovative POS& Cash Register 
       details: |
-          - Fullstack Developer: I was covering web frontend, backend. Our system evolves around iOS application, that is managed by Web UI. Backoffice stack consists of Angular, Spring, JasperReports and PostgreSQL+Mongo
-          - DevOps Engineer: Was responsible for database and servers healthcare, webops, devops and backups. Using Chef, Jenkins, Munin and Nagios and a lot of other stuff for dev/web operations. Maintained iOS CI/CD pipeline
-          - iOS WebUI Developer: Also worked on some mobile parts, for example implemented convenient multi-layered
-          SVG-based restaurant room designer
+          • Fullstack Developer: I was covering web frontend, backend. Our system evolves around iOS application, that is managed by Web UI. Backoffice stack consists of Angular, Spring, JasperReports and PostgreSQL+Mongo. <br />
+          • DevOps Engineer: Was responsible for database and servers healthcare, webops, devops and backups. Using Chef, Jenkins, Munin and Nagios and a lot of other stuff for dev/web operations. Maintained iOS CI/CD pipeline. <br />
+          • iOS WebUI Developer: Also worked on some mobile parts, for example implemented convenient multi-layered SVG-based restaurant room designer. <br />
 projects:
     title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
     time: Sep 2003 - Apr 2013
