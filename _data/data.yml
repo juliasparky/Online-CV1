@@ -4,7 +4,7 @@
 
 sidebar:
 # Site Settings
-    title: Oleksii Khilkevych,MSc
+    title: Oleksii Khilkevych, MSc
     url: http://github.com/noroutine
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -14,12 +14,12 @@ sidebar:
     avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: olelsiy@noroutine.me
+    email: oleksiy@noroutine.me
     phone: +49 163 1669687‬
     website: https://noroutine.me #do not add http://
 
     studies:
-    - education:
+      education:
       degree: MSc in Computer Science
       university: Igor Sikorsky Kyiv Polytechnic Institute
       time: Sep 2003 - May 2009
@@ -40,7 +40,7 @@ career-profile:
     text: 
       My focus is on providing first-class consultancy, using my background in tech and business.
       Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
-      I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. 
+      I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. <br />
     
       I’m very well aware of a huge gap between desire for faster yet controllable change at management level and actually having that agility within teams. 
       I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
@@ -72,7 +72,7 @@ experiences:
           • Some of tools, among many involved: Prometheus, m3db, Alerta, ElasticSearch, Grafana. <br />
 
     - role: DevOps Consultant
-      time: 2012 - 2014
+      time: Oct 2018 - Oct 2019
       company: ACI Worldwide, Inc. - Banking & Payments Solution
       details: |
           • I went on with ACI as a contractor on AHS project to introduce active-hotstandby cross-datacenter traffic switchover for production environment with over 300 peak tps. <br />
