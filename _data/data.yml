@@ -18,14 +18,12 @@ sidebar:
     phone: +49 163 1669687‬
     website: https://noroutine.me #do not add http://
 
-    # Sidebar links
     studies:
     education:
     degree: MSc in Computer Science
     university: Igor Sikorsky Kyiv Polytechnic Institute
     time: Sep 2003 - May 2009
-    
-    # Sidebar links
+
     languages:
       - language:
         idiom: Ukranian
