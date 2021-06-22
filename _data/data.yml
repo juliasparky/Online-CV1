@@ -137,36 +137,36 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     skills:
-       - skill:
-          name: Languages | Golang,Java, Groovy, Python, JavaScript, SQL, Bash
-          level: 95%
-       - skill:
-          name: Web Frontend | JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
-          level: 90%
-       - skill:
-          name: Backend | Go, node.js, Spring, Hibernate
-          level: 85%
-       - skill:
-          name: Databases | PostgreSQL, Mongo, Redis, ElasticSearch, Consul
-          level: 90%
-       - skill:
-         name: Platforms| AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
-         level: 85%
-       - skill:
-         name: Automation/ CI&CD| Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
-         level: 90%
-       - skill:
-         name: Code Repo/Code Review| bare Git, GitHub, GitLab, Gerrit
-         level: 90%
-       - skill:
-         name:  Containers | Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
-         level: 90%
-       - skill:
-         name:  DevSecOps | HashiCorp Vault, Ansible Vault, istio, GnuPG
-         level: 90%
-       - skill:
-         name:  Data Anlytics | Spark, Luigi, Jupyter, ELK
-         level: 90%     
+      - skill:
+        name: Languages | Golang,Java, Groovy, Python, JavaScript, SQL, Bash
+        level: 95%
+      - skill:
+        name: Web Frontend | JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
+        level: 90%
+      - skill:
+        name: Backend | Go, node.js, Spring, Hibernate
+        level: 85%
+      - skill:
+        name: Databases | PostgreSQL, Mongo, Redis, ElasticSearch, Consul
+        level: 90%
+      - skill:
+        name: Platforms| AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
+        level: 85%
+      - skill:
+        name: Automation/ CI&CD| Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
+        level: 90%
+      - skill:
+        name: Code Repo/Code Review| bare Git, GitHub, GitLab, Gerrit
+        level: 90%
+      - skill:
+        name:  Containers | Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+        level: 90%
+      - skill:
+        name:  DevSecOps | HashiCorp Vault, Ansible Vault, istio, GnuPG
+        level: 90%
+      - skill:
+        name:  Data Anlytics | Spark, Luigi, Jupyter, ELK
+        level: 90%     
 footer:
     Download <a href="https://cloud.noroutine.me/s/qZzgiFCdbM3859w" target="_blank" rel="nofollow">PDF</a>
  
