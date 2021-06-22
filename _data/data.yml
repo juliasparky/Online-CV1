@@ -19,10 +19,10 @@ sidebar:
     website: https://noroutine.me #do not add http://
 
     studies:
-    education:
-    degree: MSc in Computer Science
-    university: Igor Sikorsky Kyiv Polytechnic Institute
-    time: Sep 2003 - May 2009
+      - education:
+        degree: MSc in Computer Science
+        university: Igor Sikorsky Kyiv Polytechnic Institute
+        time: Sep 2003 - May 2009
 
     languages:
       - language:
