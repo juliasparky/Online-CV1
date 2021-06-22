@@ -130,8 +130,9 @@ experiences:
           • Fullstack Developer: I was covering web frontend, backend. Our system evolves around iOS application, that is managed by Web UI. Backoffice stack consists of Angular, Spring, JasperReports and PostgreSQL+Mongo. <br />
           • DevOps Engineer: Was responsible for database and servers healthcare, webops, devops and backups. Using Chef, Jenkins, Munin and Nagios and a lot of other stuff for dev/web operations. Maintained iOS CI/CD pipeline. <br />
           • iOS WebUI Developer: Also worked on some mobile parts, for example implemented convenient multi-layered SVG-based restaurant room designer. <br />
+
 projects:
-    title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
+  - title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
     time: Sep 2003 - Apr 2013
     
 skills:
